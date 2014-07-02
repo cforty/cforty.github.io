@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+url: http://cforty.github.io
+title: 四十班纪念册
+subtitle: 40班同学会生活博客
+author: 经典四十
+simple_search: http://www.baidu.com
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false

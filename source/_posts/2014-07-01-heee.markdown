@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纪念册博客开通了！"
+title: "Hello world!"
 date: 2014-07-02 10:33:29 +0800
 comments: true
 categories: 

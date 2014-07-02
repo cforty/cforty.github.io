@@ -1,11 +1,11 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+#encoding: utf-8
 url: http://cforty.github.io
-title: 四十班纪念册
-subtitle: 40班同学会生活博客
-author: 经典四十
+title: Memories of Forty
+subtitle: 40
+author: Classic Forty
 simple_search: http://www.baidu.com
 description:
 

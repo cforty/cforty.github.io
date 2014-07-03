@@ -4,7 +4,7 @@
   <title><![CDATA[四十班纪念册]]></title>
   <link href="http://cforty.github.io/atom.xml" rel="self"/>
   <link href="http://cforty.github.io/"/>
-  <updated>2014-07-03T15:18:35+08:00</updated>
+  <updated>2014-07-03T19:20:32+08:00</updated>
   <id>http://cforty.github.io/</id>
   <author>
     <name><![CDATA[Classic Forty]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[小泽糟辣子的故事盒子之一]]></title>
+    <link href="http://cforty.github.io/blog/2014/07/03/story-of-lao-zao/"/>
+    <updated>2014-07-03T18:55:18+08:00</updated>
+    <id>http://cforty.github.io/blog/2014/07/03/story-of-lao-zao</id>
+    <content type="html"><![CDATA[<p><img src="http://cforty.github.io/images/1.jpg" title="1" alt="Alt text" /></p>
+
+<p><img src="http://cforty.github.io/images/2.jpg" title="2" alt="Alt text" /></p>
+
+<p><img src="http://cforty.github.io/images/3.jpg" title="3" alt="Alt text" /></p>
+
+<p><img src="http://cforty.github.io/images/4.jpg" title="4" alt="Alt text" /></p>
+
+<p>后来，西藏来的也凑个热闹，讲了个故事</p>
+
+<p><img src="http://cforty.github.io/images/5.jpg" title="5" alt="Alt text" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[闲聊-1]]></title>

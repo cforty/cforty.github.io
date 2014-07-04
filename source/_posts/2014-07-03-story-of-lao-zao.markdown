@@ -7,6 +7,8 @@ categories:
 ---
 ![Alt text](/images/1.jpg "1")
 
+<!--more-->
+
 ![Alt text](/images/2.jpg "2")
 
 ![Alt text](/images/3.jpg "3")

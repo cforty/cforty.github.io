@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://cforty.github.io/blog/2014/07/04/bon-jovi/</loc>
+    <lastmod>2014-07-04T15:57:26+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://cforty.github.io/blog/2014/07/04/gnr/</loc>
+    <lastmod>2014-07-04T15:48:21+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://cforty.github.io/blog/2014/07/03/story-of-lao-zao/</loc>
     <lastmod>2014-07-03T18:55:18+08:00</lastmod>
     <priority>0.8</priority>
@@ -35,21 +47,21 @@
   
   <url>
     <loc>http://cforty.github.io/40.html</loc>
-    <lastmod>2014-07-04T12:51:41+08:00</lastmod>
+    <lastmod>2014-07-04T15:58:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/blog/archives/</loc>
-    <lastmod>2014-07-04T12:51:41+08:00</lastmod>
+    <lastmod>2014-07-04T15:58:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/</loc>
-    <lastmod>2014-07-04T12:51:41+08:00</lastmod>
+    <lastmod>2014-07-04T15:58:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

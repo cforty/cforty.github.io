@@ -4,7 +4,7 @@
   <title><![CDATA[四十班纪念册]]></title>
   <link href="http://cforty.github.io/atom.xml" rel="self"/>
   <link href="http://cforty.github.io/"/>
-  <updated>2014-07-04T12:51:41+08:00</updated>
+  <updated>2014-07-04T15:58:37+08:00</updated>
   <id>http://cforty.github.io/</id>
   <author>
     <name><![CDATA[Classic Forty]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blaze of Glory]]></title>
+    <link href="http://cforty.github.io/blog/2014/07/04/bon-jovi/"/>
+    <updated>2014-07-04T15:57:26+08:00</updated>
+    <id>http://cforty.github.io/blog/2014/07/04/bon-jovi</id>
+    <content type="html"><![CDATA[<iframe height=498 width=510 src="http://player.youku.com/embed/XNDAwNDE3ODU2" frameborder=0 allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[November Rain]]></title>
+    <link href="http://cforty.github.io/blog/2014/07/04/gnr/"/>
+    <updated>2014-07-04T15:48:21+08:00</updated>
+    <id>http://cforty.github.io/blog/2014/07/04/gnr</id>
+    <content type="html"><![CDATA[<iframe height=498 width=510 src="http://player.youku.com/embed/XMTg4Nzgw" frameborder=0 allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[小泽糟辣子的故事盒子之一]]></title>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "November Rain"
+date: 2014-07-04 15:48:21 +0800
+comments: true
+categories: 
+---
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTg4Nzgw" frameborder=0 allowfullscreen></iframe>

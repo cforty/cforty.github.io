@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Blaze Of Glory"
+date: 2014-07-04 15:57:26 +0800
+comments: true
+categories: 
+---
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNDAwNDE3ODU2" frameborder=0 allowfullscreen></iframe>

@@ -4,7 +4,7 @@
   <title><![CDATA[四十班纪念册]]></title>
   <link href="http://cforty.github.io/atom.xml" rel="self"/>
   <link href="http://cforty.github.io/"/>
-  <updated>2014-07-05T10:19:27+08:00</updated>
+  <updated>2014-07-05T20:27:32+08:00</updated>
   <id>http://cforty.github.io/</id>
   <author>
     <name><![CDATA[Classic Forty]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[如何保存微信聊天记录]]></title>
+    <link href="http://cforty.github.io/blog/2014/07/05/how-to-save-logs/"/>
+    <updated>2014-07-05T20:09:35+08:00</updated>
+    <id>http://cforty.github.io/blog/2014/07/05/how-to-save-logs</id>
+    <content type="html"><![CDATA[<p>找到一个目前为止最可行的办法。</p>
+
+<p>缺点是比较繁琐，操作费时费力，每次需要手工选择每一条要保存的记录，而且一次最多只能选取100条。不过有办法总比没有来得强。</p>
+
+<!--more-->
+
+
+<p>以iPhone为例：</p>
+
+<p><strong>第一步：手指长按任意一条聊天内容，屏幕出现操作菜单，然后选择“更多”</strong></p>
+
+<p><img src="http://cforty.github.io/images/20140705/1.jpg" title="1" alt="Alt text" /></p>
+
+<p><strong>第二步：选中需要保存的聊天记录（在聊天内容前面勾选），然后点击屏幕右下角的“&hellip;&ldquo;</strong></p>
+
+<p><img src="http://cforty.github.io/images/20140705/2.png" title="1" alt="Alt text" /></p>
+
+<p><strong>第三步：点击“&hellip;&ldquo;以后就会出现下图</strong></p>
+
+<p><img src="http://cforty.github.io/images/20140705/3.jpg" title="1" alt="Alt text" /></p>
+
+<p><strong>第四步：填写收件人邮箱地址（自己的qq邮箱最好），发送</strong></p>
+
+<p><img src="http://cforty.github.io/images/20140705/4.jpg" title="1" alt="Alt text" /></p>
+
+<hr />
+
+<p>然后就去自己qq邮箱里面看吧，所有文本以及<strong>贴图</strong>（这个很重要）都在里面。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日志-2014-7-4]]></title>

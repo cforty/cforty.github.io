@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://cforty.github.io/blog/2014/07/05/how-to-save-logs/</loc>
+    <lastmod>2014-07-05T20:09:35+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://cforty.github.io/blog/2014/07/05/7-4-1/</loc>
     <lastmod>2014-07-05T09:29:52+08:00</lastmod>
     <priority>0.8</priority>
@@ -53,21 +59,21 @@
   
   <url>
     <loc>http://cforty.github.io/40.html</loc>
-    <lastmod>2014-07-05T10:19:27+08:00</lastmod>
+    <lastmod>2014-07-05T20:27:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/blog/archives/</loc>
-    <lastmod>2014-07-05T10:19:27+08:00</lastmod>
+    <lastmod>2014-07-05T20:27:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/</loc>
-    <lastmod>2014-07-05T10:19:27+08:00</lastmod>
+    <lastmod>2014-07-05T20:27:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

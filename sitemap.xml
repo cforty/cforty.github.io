@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://cforty.github.io/blog/2014/07/27/2014-6-10/</loc>
+    <lastmod>2014-07-27T18:18:53+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://cforty.github.io/blog/2014/07/27/2014-6-9/</loc>
+    <lastmod>2014-07-27T17:43:15+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://cforty.github.io/blog/2014/07/22/2014-6-20/</loc>
     <lastmod>2014-07-22T11:16:46+08:00</lastmod>
     <priority>0.8</priority>
@@ -83,21 +95,21 @@
   
   <url>
     <loc>http://cforty.github.io/40.html</loc>
-    <lastmod>2014-07-23T09:19:25+08:00</lastmod>
+    <lastmod>2014-07-27T18:26:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/blog/archives/</loc>
-    <lastmod>2014-07-23T09:19:25+08:00</lastmod>
+    <lastmod>2014-07-27T18:26:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://cforty.github.io/</loc>
-    <lastmod>2014-07-23T09:19:25+08:00</lastmod>
+    <lastmod>2014-07-27T18:26:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
